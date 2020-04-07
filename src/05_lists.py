@@ -29,7 +29,9 @@ print(x)
 
 # Print the length of list x
 # YOUR CODE HERE
-print(x.__len__())
+# print(x.__len__())
+# answer = x.__len__()
+print(f'length of list x is {x.__len__()}')
 
 # Print all the values in x multiplied by 1000
 # YOUR CODE HERE
